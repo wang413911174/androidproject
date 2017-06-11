@@ -1,0 +1,23 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion "25.0.1"
+
+    defaultConfig {
+        applicationId "com.umeng.example"
+        minSdkVersion 17
+        targetSdkVersion 23
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles 'proguard.cfg'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir:'libs',include:['*.jar'])
+}

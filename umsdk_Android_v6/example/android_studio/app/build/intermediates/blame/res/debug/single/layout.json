@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/arthur/androidproject/umsdk_Android_v6/example/android_studio/app/build/intermediates/res/merged/debug/layout/umeng_example_analytics_fragment_tabs.xml",
+        "source": "/Users/arthur/androidproject/umsdk_Android_v6/example/android_studio/app/src/main/res/layout/umeng_example_analytics_fragment_tabs.xml"
+    },
+    {
+        "merged": "/Users/arthur/androidproject/umsdk_Android_v6/example/android_studio/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/arthur/androidproject/umsdk_Android_v6/example/android_studio/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/arthur/androidproject/umsdk_Android_v6/example/android_studio/app/build/intermediates/res/merged/debug/layout/umeng_example_analytics_fragment_stack.xml",
+        "source": "/Users/arthur/androidproject/umsdk_Android_v6/example/android_studio/app/src/main/res/layout/umeng_example_analytics_fragment_stack.xml"
+    },
+    {
+        "merged": "/Users/arthur/androidproject/umsdk_Android_v6/example/android_studio/app/build/intermediates/res/merged/debug/layout/umeng_example_game.xml",
+        "source": "/Users/arthur/androidproject/umsdk_Android_v6/example/android_studio/app/src/main/res/layout/umeng_example_game.xml"
+    },
+    {
+        "merged": "/Users/arthur/androidproject/umsdk_Android_v6/example/android_studio/app/build/intermediates/res/merged/debug/layout/umeng_example_analytics.xml",
+        "source": "/Users/arthur/androidproject/umsdk_Android_v6/example/android_studio/app/src/main/res/layout/umeng_example_analytics.xml"
+    },
+    {
+        "merged": "/Users/arthur/androidproject/umsdk_Android_v6/example/android_studio/app/build/intermediates/res/merged/debug/layout/umeng_example_analytics_webview.xml",
+        "source": "/Users/arthur/androidproject/umsdk_Android_v6/example/android_studio/app/src/main/res/layout/umeng_example_analytics_webview.xml"
+    }
+]

@@ -1,2 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/arthur/androidproject/Bugly_v2/BuglySDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/arthur/androidproject/Bugly_v2/BuglySDKDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.0_2b6149211c7d66bf9edf7e49f20c94d7b56f7929.jar" />
+    </item>
+    <item
+        jar="/Users/arthur/androidproject/Bugly_v2/BuglySDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/arthur/androidproject/Bugly_v2/BuglySDKDemo/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0_77bafd6cb7c261d9d847082b1a0af0dbb15dc679.jar" />
+    </item>
+    <item
+        jar="/Users/arthur/androidproject/Bugly_v2/BuglySDKDemo/app/build/intermediates/exploded-aar/com.tencent.bugly/crashreport/2.6.5/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="21257e8fb439affef2a89c23ddfda45869ac0c31">
+        <dex dex="/Users/arthur/androidproject/Bugly_v2/BuglySDKDemo/app/build/intermediates/pre-dexed/debug/com.tencent.bugly-crashreport-2.6.5_685b32334aa14ce35418f508bb4c12e65bd180a2.jar" />
+    </item>
+    <item
+        jar="/Users/arthur/androidproject/Bugly_v2/BuglySDKDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/arthur/androidproject/Bugly_v2/BuglySDKDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.0_04b2f3abe5bd2be9bfde1e32c6120d14abf95e89.jar" />
+    </item>
+    <item
+        jar="/Users/arthur/SDK/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/arthur/androidproject/Bugly_v2/BuglySDKDemo/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0_e26f6368ef8cf8809dfa0225bab622174e032192.jar" />
+    </item>
+
+</items>

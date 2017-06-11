@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/arthur/androidproject/umsdk_Android_v6/example/android_studio/app/libs/utdid4all-1.0.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4345fa0a5a7768f2f9c86aaab7db9e2906765193">
+        <dex dex="/Users/arthur/androidproject/umsdk_Android_v6/example/android_studio/app/build/intermediates/pre-dexed/debug/utdid4all-1.0.4_3791b0b4bc97d3ac13a08255760c3bae7fdb907c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arthur/androidproject/umsdk_Android_v6/example/android_studio/app/libs/umeng-analytics-v6.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4bff754fc05336940a8cb348e455c01515b5d883">
+        <dex dex="/Users/arthur/androidproject/umsdk_Android_v6/example/android_studio/app/build/intermediates/pre-dexed/debug/umeng-analytics-v6.1.1_66caf6a196f4824b46a01e69c0248f8c135de060.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arthur/androidproject/umsdk_Android_v6/example/android_studio/app/libs/android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
+        <dex dex="/Users/arthur/androidproject/umsdk_Android_v6/example/android_studio/app/build/intermediates/pre-dexed/debug/android-support-v4_adb5977fbd317786a190000aa463df9a6e2ee435.jar" />
+    </item>
+
+</items>
